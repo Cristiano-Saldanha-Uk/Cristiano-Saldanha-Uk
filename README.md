@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 
-> More coming soon – I'm actively building out my portfolio!
+[Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
 
 ---
 
