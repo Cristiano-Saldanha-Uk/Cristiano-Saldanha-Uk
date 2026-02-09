@@ -1,4 +1,3 @@
-# Cristiano-Saldanha
 # 👋 Hi, I'm Cristiano Saldanha
 
 🎓 2nd Year BSc Software Engineering @ Newcastle University  
@@ -9,8 +8,9 @@
 
 ## 🚀 Projects
 
--[Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
--[Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
+- [Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
+- [Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,8 @@
 
 ---
 
-## 🌐 Personal Website: [Website](https://cristiano-website.vercel.app/)
+## 🌐 Personal Website
+🔗 https://cristiano-website.vercel.app/
 
 ---
 
@@ -42,4 +43,5 @@
 
 This repository is provided for **portfolio and educational viewing only**.  
 Please do **not copy, modify, or redistribute** any part of the code without permission.
+
 
