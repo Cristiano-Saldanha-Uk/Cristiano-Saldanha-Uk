@@ -10,7 +10,7 @@
 ## 🚀 Projects
 
 [Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
-
+[Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
 ---
 
 ## 🛠️ Tech Stack
@@ -30,8 +30,7 @@
 
 ## 🌐 Personal Website
 
-I'm currently building my personal portfolio site — stay tuned!  
-Planned stack: `React + Tailwind` or `Django + Custom Frontend`
+[Website](https://cristiano-website.vercel.app/)
 
 ---
 
