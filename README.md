@@ -10,6 +10,8 @@
 
 - [Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
 - [Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
+- [Student Management System](https://github.com/Cristiano-Saldanha-Uk/Student-Management-System-Legacy)
+- [Python File Manager](https://github.com/Cristiano-Saldanha-Uk/Python-File-Manager-Legacy)
 
 ---
 
