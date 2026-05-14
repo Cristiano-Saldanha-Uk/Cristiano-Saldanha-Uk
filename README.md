@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Cristiano Saldanha
+# Hi, I'm Cristiano Saldanha
 
-🎓 2nd Year BSc Software Engineering @ Newcastle University  
-💡 Passionate about backend systems, automation, and AI  
-🧠 Focused on writing clean, efficient, and maintainable code
+2nd Year BSc Software Engineering @ Newcastle University  
+Passionate about backend systems, automation, and AI  
+Focused on writing clean, efficient, and maintainable code
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - [Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
 - [Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -30,18 +30,18 @@
 
 ---
 
-## 🌐 Personal Website
+## Personal Website
 🔗 https://cristiano-website.vercel.app/
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [Cristiano Saldanha](https://www.linkedin.com/in/cristiano-saldanha-b9757a261/)
 
 ---
 
-## 📜 License
+## License
 
 This repository is provided for **portfolio and educational viewing only**.  
 Please do **not copy, modify, or redistribute** any part of the code without permission.
